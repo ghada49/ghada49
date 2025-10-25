@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I’m Ghada Al Danab! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Ghada+Al+Danab+—+Software+Engineer+%26+ML+Developer;Full+Stack+%7C+AI+%7C+Problem+Solver" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=CSE+Student+%7C+Aspiring+Software+Engineer;Interested+in+Full+Stack%2C+AI%2C+and+ML;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
 </p>
 
 🎓 Computer Science & Engineering student at the American University of Beirut (AUB)  
