@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I’m Ghada Al Danab! 👋</h1>
 
-<p align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=CSE+Student+%7C+Aspiring+Software+Engineer;Interested+in+Full+Stack%2C+AI%2C+and+ML;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
-</p>
 
 🎓 Computer Science & Engineering student at the American University of Beirut (AUB)  
 💡 Passionate about full-stack development, AI, and building data-driven solutions that create real-world impact.  
