@@ -1,7 +1,13 @@
-<h1 align="center">Hello, I’m Ghada Al Danab! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C;I'm+Ghada+Al+Danab!)](https://git.io/typing-svg)
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=CSE+Student+%7C+Aspiring+Software+Engineer;Interested+in+Full+Stack%2C+AI%2C+and+ML;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+
+![Computer Science](https://img.shields.io/badge/Computer%20Science-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white)
+![Student](https://img.shields.io/badge/Student-1E90FF?style=for-the-badge&logo=bookstack&logoColor=white)
+![Learning Full Stack](https://img.shields.io/badge/Learning%20Full%20Stack-FF8C00?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AI & ML Enthusiast](https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Continuous Learner](https://img.shields.io/badge/Continuous%20Learner-228B22?style=for-the-badge&logo=readme&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-4.0%2F4.0-brightgreen?style=for-the-badge)
 
 🎓 Computer Science & Engineering student at the American University of Beirut (AUB)  
 💡 Passionate about full-stack development, AI, and building data-driven solutions that create real-world impact.  
