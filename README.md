@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C;I'm+Ghada+Al+Danab!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=500&height=100&lines=Hello+%F0%9F%91%8B;I'm+Ghada+Al+Danab!)](https://git.io/typing-svg)
 
-
-
-![Computer Science](https://img.shields.io/badge/Computer%20Science-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white)
+![Computer Science Engineer](https://img.shields.io/badge/Computer%20Science%20Engineer-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Student](https://img.shields.io/badge/Student-1E90FF?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Learning Full Stack](https://img.shields.io/badge/Learning%20Full%20Stack-FF8C00?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![AI & ML Enthusiast](https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
