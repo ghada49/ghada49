@@ -24,7 +24,7 @@
 
 • Developed role-specific dashboards for citizens, inspectors, managers, and admins, featuring geo-aware routing, PDF inspection uploads, and dataset-triggered model deployment.
 
-🔗 https://github.com/ghada49/EDL-SmartGrid 🎥 [https://youtu.be/QuO1nUGsuns](#)
+🔗 https://github.com/ghada49/EDL-SmartGrid 🎥 [https://youtu.be/QuO1nUGsuns]
 
 
  ---
