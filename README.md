@@ -15,6 +15,27 @@
 
 ## 🚀 Projects  
 
+### ⚡ EDL SmartGrid — FastAPI, React, Docker, Redis, ML (OCSVM, PCA, AE, IF, LOF)
+• Engineered a production-grade AI platform that detects anomalous electricity consumption patterns across Lebanon’s buildings.
+• Designed a complete pipeline linking data ingestion → ML-driven anomaly detection → automated case creation → inspections → final managerial decisions.
+• Built an ensemble-based anomaly engine with rank fusion, drift monitoring, and a model registry powered by asynchronous Redis workers for scalable training and activation.
+• Developed role-specific dashboards for citizens, inspectors, managers, and admins, featuring geo-aware routing, PDF inspection uploads, and dataset-triggered model deployment.
+🔗 https://github.com/ghada49/EDL-SmartGrid 🎥 [https://youtu.be/QuO1nUGsuns](#)
+
+
+ ---
+ 
+### 🔐 PolyLab — GF(2ᵐ) Cryptography Platform (React, FastAPI, Argon2id, MFA, RBAC)
+
+• Built a full-stack educational platform combining secure authentication (Argon2id, MFA, email verification) with a GF(2ᵐ) polynomial arithmetic engine.
+• Implemented a mathematically verified calculator supporting addition, multiplication, inversion, exponentiation, and AES-based irreducible polynomials with 100% correctness (exhaustive V&V tests).
+• Developed role-based system (student/instructor/admin) with instructor requests, classroom management, assignments, uploads, and submissions.
+• Designed React/Vite frontend: calculator UI, student dashboard, instructor tools, and admin console.
+• Built FastAPI backend with session cookies, CSRF protection, rate limiting, secure upload handling, and modular routers.
+🔗 https://github.com/ghada49/PolyLab-Polynomial-Arithmetic 🎥 coming soon
+
+---
+
 #### 🧏‍♀️ QuickSign — *React Native, Flask, AWS, MediaPipe, FFmpeg*  
 • Developed frontend & backend for a mobile app connecting Arabic Sign Language users with the public.  
 • Built bilingual UI (Arabic/English) and implemented Flask APIs for emergency & saved phrases.  
