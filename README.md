@@ -41,7 +41,7 @@
 
 • Built FastAPI backend with session cookies, CSRF protection, rate limiting, secure upload handling, and modular routers.
 
-🔗 https://github.com/ghada49/PolyLab-Polynomial-Arithmetic 🎥 coming soon
+🔗 https://github.com/ghada49/PolyLab-Polynomial-Arithmetic 🎥 https://youtu.be/sEnBj2hwZqM
 
 ---
 
