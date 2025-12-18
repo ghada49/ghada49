@@ -15,7 +15,9 @@
 
 ## 🚀 Projects  
 
-### ⚡ EDL SmartGrid — FastAPI, React, Docker, Redis, ML (OCSVM, PCA, AE, IF, LOF)
+### 💡Flagship Systems & Platforms
+
+#### ⚡ EDL SmartGrid — FastAPI, React, Docker, Redis, ML (OCSVM, PCA, AE, IF, LOF)
 • Engineered a production-grade AI platform that detects anomalous electricity consumption patterns across Lebanon’s buildings.
 
 • Designed a complete pipeline linking data ingestion → ML-driven anomaly detection → automated case creation → inspections → final managerial decisions.
@@ -29,7 +31,7 @@
 
  ---
  
-### 🔐 PolyLab — GF(2ᵐ) Cryptography Platform (React, FastAPI, Argon2id, MFA, RBAC)
+#### 🔐 PolyLab — GF(2ᵐ) Cryptography Platform (React, FastAPI, Argon2id, MFA, RBAC)
 
 • Built a full-stack educational platform combining secure authentication (Argon2id, MFA, email verification) with a GF(2ᵐ) polynomial arithmetic engine.
 
@@ -45,7 +47,7 @@
 
 ---
 
-### 🧏‍♀️ QuickSign — *React Native, Flask, AWS, MediaPipe, FFmpeg*  
+#### 🧏‍♀️ QuickSign — *React Native, Flask, AWS, MediaPipe, FFmpeg*  
 • Developed frontend & backend for a mobile app connecting Arabic Sign Language users with the public.  
 • Built bilingual UI (Arabic/English) and implemented Flask APIs for emergency & saved phrases.  
 • Created text-to-sign video pipeline using MediaPipe, FFmpeg, and AWS S3.  
@@ -53,7 +55,9 @@
 🔗 https://github.com/ghada49/QuickSign-Team10 🎥 https://youtu.be/GvjK4ALNaXM
 
 ---
-### 📄 AI-Powered Company Brochure Generator — Python, OpenAI API, Streamlit
+### 🤖 Generative AI & LLM Projects
+
+#### 📄 AI-Powered Company Brochure Generator — Python, OpenAI API, Streamlit
 • Built an LLM-driven system that analyzes company websites, selects brochure-relevant pages, and generates factual Markdown brochures.
 
 • Implemented intelligent link selection using structured JSON outputs to avoid irrelevant or unsafe pages.
@@ -65,8 +69,9 @@
 🔗 https://github.com/ghada49/ai-brochure-generator 🎥 https://youtu.be/bwV4jYqnaCI
 
 ---
+### 🧪Other Projects
 
-### 📊 Equity & Learning Gaps Dashboard — *Python, Pandas, Streamlit, Docker*  
+#### 📊 Equity & Learning Gaps Dashboard — *Python, Pandas, Streamlit, Docker*  
 • Built an interactive dashboard analyzing Lebanon’s National Student Assessment data.  
 • Developed logistic regression models predicting student risk of underperformance.  
 • Visualized equity metrics and deployed the app using Docker.  
@@ -75,14 +80,14 @@
 
 ---
 
-### 💰 DealFinder — *React (TypeScript), Python (BeautifulSoup), CSS*  
+#### 💰 DealFinder — *React (TypeScript), Python (BeautifulSoup), CSS*  
 • Built a full-stack web app to track product prices from Lebanese stores.  
 • Implemented React frontend with sorting, filtering, and price comparison features.  
 🔗 https://github.com/ghada49/ACMAlumniProject 🎥 https://youtu.be/2uD5KTfDcS8
 
 ---
 
-### 🛍️ AUB Boutique — *Python, SQLite3, Sockets, GUI*  
+#### 🛍️ AUB Boutique — *Python, SQLite3, Sockets, GUI*  
 • Developed a client-server marketplace with secure authentication & product transactions.  
 • Designed database schema and implemented JSON-based communication protocol.  
 • Added GUI for browsing, search, and shopping cart functionality.  
