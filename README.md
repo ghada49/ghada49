@@ -57,6 +57,17 @@
 ---
 ### 🤖 Generative AI & LLM Projects
 
+#### 🧩 Self-Healing Data Parser — Python, LLM Agents, Sandbox Execution  
+• Built an agentic LLM system that converts messy, unstructured text into clean JSON by generating custom Python parsers.  
+
+• Implemented a self-healing loop where the agent writes code, executes it in a restricted sandbox, inspects failures, and automatically repairs the parser.
+
+• Designed a secure execution environment with AST checks, blocked imports, timeouts, and forbidden operations to safely run model-generated code.  
+
+• Delivered a Gradio UI that returns both the extracted JSON and the final working parser code.
+
+🔗 https://github.com/ghada49/self-healing-data-parser
+
 #### 📄 AI-Powered Company Brochure Generator — Python, OpenAI API, Streamlit
 • Built an LLM-driven system that analyzes company websites, selects brochure-relevant pages, and generates factual Markdown brochures.
 
