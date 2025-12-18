@@ -75,7 +75,7 @@
 
 ---
 
-###💰 DealFinder — *React (TypeScript), Python (BeautifulSoup), CSS*  
+### 💰 DealFinder — *React (TypeScript), Python (BeautifulSoup), CSS*  
 • Built a full-stack web app to track product prices from Lebanese stores.  
 • Implemented React frontend with sorting, filtering, and price comparison features.  
 🔗 https://github.com/ghada49/ACMAlumniProject 🎥 https://youtu.be/2uD5KTfDcS8
