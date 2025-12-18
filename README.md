@@ -53,6 +53,14 @@
 🔗 https://github.com/ghada49/QuickSign-Team10 🎥 https://youtu.be/GvjK4ALNaXM
 
 ---
+### 📄 AI-Powered Company Brochure Generator — Python, OpenAI API, Streamlit
+• Built an LLM-driven system that analyzes company websites, selects brochure-relevant pages, and generates factual Markdown brochures.
+• Implemented intelligent link selection using structured JSON outputs to avoid irrelevant or unsafe pages.
+• Designed the system to generate content **only from scraped sources**, appending a Sources section to reduce hallucinations.
+• Delivered both CLI and Streamlit UI for non-technical users.
+
+🔗 https://github.com/ghada49/ai-brochure-generator 🎥 https://youtu.be/bwV4jYqnaCI
+
 
 #### 📊 Equity & Learning Gaps Dashboard — *Python, Pandas, Streamlit, Docker*  
 • Built an interactive dashboard analyzing Lebanon’s National Student Assessment data.  
