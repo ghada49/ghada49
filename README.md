@@ -52,7 +52,8 @@
 • Built bilingual UI (Arabic/English) and implemented Flask APIs for emergency & saved phrases.  
 • Created text-to-sign video pipeline using MediaPipe, FFmpeg, and AWS S3.  
 • Ranked **3rd place** in the Amazon Industry Program 4.0 (2025).  
-🔗 https://github.com/ghada49/QuickSign-Team10 🎥 https://youtu.be/GvjK4ALNaXM
+🔗 https://github.com/ghada49/QuickSign-Team10 🎥 https://youtu.be/GvjK4ALNaXM
+
 
 ---
 ### 🤖 Generative AI & LLM Projects
@@ -79,6 +80,8 @@
 
 🔗 https://github.com/ghada49/ai-brochure-generator 🎥 https://youtu.be/bwV4jYqnaCI
 
+
+
 ---
 ### 🧪Other Projects
 
@@ -87,14 +90,16 @@
 • Developed logistic regression models predicting student risk of underperformance.  
 • Visualized equity metrics and deployed the app using Docker.  
 • Ranked **Top 3** for innovation and impact in the EECE490/690 Hackathon.  
-🔗 https://github.com/ghada49/Equity-Learning-Gaps-Dashboard 🎥 https://youtu.be/QRFbYxDBHpo
+🔗 https://github.com/ghada49/Equity-Learning-Gaps-Dashboard 🎥 https://youtu.be/QRFbYxDBHpo
+
 
 ---
 
 #### 💰 DealFinder — *React (TypeScript), Python (BeautifulSoup), CSS*  
 • Built a full-stack web app to track product prices from Lebanese stores.  
 • Implemented React frontend with sorting, filtering, and price comparison features.  
-🔗 https://github.com/ghada49/ACMAlumniProject 🎥 https://youtu.be/2uD5KTfDcS8
+🔗 https://github.com/ghada49/ACMAlumniProject 🎥 https://youtu.be/2uD5KTfDcS8
+
 
 ---
 
