@@ -102,7 +102,7 @@
 • Developed a client-server marketplace with secure authentication & product transactions.  
 • Designed database schema and implemented JSON-based communication protocol.  
 • Added GUI for browsing, search, and shopping cart functionality.  
-🔗 https://github.com/ghada49/Project-Phase-2 🎥 https://youtu.be/U4c1VW3cAcE  
+🔗 https://github.com/ghada49/Project-Phase-2  🎥 https://youtu.be/U4c1VW3cAcE  
 > _(Note: The demo video is ~8 minutes long as it was a course requirement; it includes detailed explanations.)_
 
 ---
